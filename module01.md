@@ -6,7 +6,7 @@ sudo ip route
 sudo route -n
 sudo lsns
 sudo ip netns list
-![Project-Diagram-Image](Screenshot from 2024-04-27 14-55-07.png)
+![Project-Diagram-Image](DevOps/Screenshot from 2024-04-27 14-55-07.png)
 
 # Step 1: Create a bridge network and attach ip to that interface
 
